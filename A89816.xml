@@ -1,0 +1,617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Threnos' militarius ingeminatus; sive, mnemosynum lapidarium lotharingii ducis &amp; Schombergi, gemini in re militari coryphæi heroûm duo, uno eodemq; anno defuncti, sempiternæ memoriæ, et sepulchrali marmori consecratum. Per J, N. M.D.</title>
+            <author>J. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89816</idno>
+            <idno type="STC">Wing N23B</idno>
+            <idno type="STC">ESTC R231128</idno>
+            <idno type="EEBO-CITATION">99896669</idno>
+            <idno type="PROQUEST">99896669</idno>
+            <idno type="VID">132561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2432:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Threnos' militarius ingeminatus; sive, mnemosynum lapidarium lotharingii ducis &amp; Schombergi, gemini in re militari coryphæi heroûm duo, uno eodemq; anno defuncti, sempiternæ memoriæ, et sepulchrali marmori consecratum. Per J, N. M.D.</title>
+                  <author>J. N.</author>
+               </titleStmt>
+               <extent>[2], 4, 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Excudebat T.M.,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno Domini 1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Frederici ducis Schombergi M.S." has caption title with separate pagination and register.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  V, --  Duke of Lorraine, 1643-1690 --  Early works to 1800.</term>
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690 --  Early works to 1800.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132561:1"/>
+            <!-- PDF PAGE 64 -->
+            <p>Threnos Militarius Ingeminatus; SIVE, Mnemoſynum Lapidarium <hi>Lotharingii</hi> Ducis &amp; <hi>Schombergi,</hi> Gemini in Re Militari Coryphaei Heroûm Duo, uno eodem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Anno Defuncti, Sempiternae Memoriae, ET Sepulchrali Marmori Conſecratum.</p>
+            <p>
+               <hi>Per</hi> J, N. <hi>M. D.</hi>
+            </p>
+            <p>
+               <hi>LONDINI,</hi> 
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>  M<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Anno Domini</hi> 1600.</p>
+         </div>
+      </front>
+      <body>
+         <div type="lament">
+            <pb n="1" facs="tcp:132561:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>DIVI CAROLI LOTHARINGIAE DUCIS M. S.</head>
+            <lg>
+               <l>SIſte Viator quicunque ſis,</l>
+               <l>Si <hi>mirari,</hi> ſi <hi>flere</hi> velis,</l>
+               <l>Non ſtupore leviusculo, non lachrymulis officioſis,</l>
+               <l>Attonitus omnino, &amp; verè liquefactus:</l>
+               <l>
+                  <hi>Mortuum</hi> vide vel Virûm <hi>Immortalem,</hi>
+               </l>
+               <l>CAROLUM luge LOTHARINGIAE DUCEM,</l>
+               <l>Satis ſunt ad Titulos haec duo nomina,</l>
+               <l>Sat Gallorum, Turcarum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Terrori,</l>
+               <l>Orbi Terrarum ſtupori,</l>
+               <l>Satis ſuper<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Lugentis Germaniae Dolori incre<g ref="char:EOLhyphen"/>dibili:</l>
+               <l>
+                  <hi>Vacillantis</hi> Imperii, <hi>Decus,</hi> olim &amp; <hi>Tutamen,</hi>
+               </l>
+               <l>
+                  <hi>Florentis,</hi> jamjam <hi>Deſiderium;</hi>
+               </l>
+               <l>Sic ſatis eſt <hi>CAROLO, Caeſarem</hi> feciſſe vere AUGUSTUM.</l>
+               <l>Cave Lector (ne verbulo ſimplici)</l>
+               <l>Tantae injurioſus Virtuti,</l>
+               <l>
+                  <hi>Heroëm</hi> ſalutabis <hi>CAROL<g ref="char:V">Ʋ</g>M</hi> plus quam com<g ref="char:EOLhyphen"/>muni Apotheoſi dignum,</l>
+               <l>
+                  <hi>Heroicae Virtutis</hi> quicquid inerat <hi>Superiori</hi> ſeculo</l>
+               <l>Facile Compendium,</l>
+               <l>Exemplar haud Imitabile <hi>Futuro.</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:132561:3"/>
+                  <!-- PDF PAGE 66 -->
+Superant Famam Facta,</l>
+               <l>
+                  <hi>Graeculos</hi> ſuperant; Iliadesque ſuas,</l>
+               <l>Fabulas<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Romanas;</hi>
+               </l>
+               <l>Dux verè <hi>Clypeo</hi> Donandus &amp; <hi>Trophaeo,</hi>
+               </l>
+               <l>
+                  <hi>CONSILIO, FORTIT<g ref="char:V">Ʋ</g>DINE,</hi>
+               </l>
+               <l>Utrum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Par referens Certamine,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>no</hi> habuit Germania Graecorum <hi>Duos,</hi>
+               </l>
+               <l>Ulyſſem &amp; Ajacem <hi>CAROLO:</hi>
+               </l>
+               <l>Hoc <hi>Uno</hi> Roma tuum habuimus <hi>Horatium,</hi>
+               </l>
+               <l>Hoc <hi>Unico</hi> Roma tuum vide <hi>Fabium,</hi>
+               </l>
+               <l>Solus ſuſtinuit <hi>Turcarum</hi> Legiones,</l>
+               <l>Verè &amp; <hi>Cunctando</hi> Romanorum <hi>Rem Reſtituit.</hi>
+               </l>
+               <l>Injuſtus merito, &amp; memoriae</l>
+               <l>Qui <hi>Magnum</hi> Te fecerit <hi>Alexandrum,</hi>
+               </l>
+               <l>
+                  <hi>Divumve Julium,</hi>
+               </l>
+               <l>Granicum DANUBIO confert, <hi>Rhenique Trajectum</hi> Rubiconi.</l>
+            </lg>
+            <lg>
+               <l>Poſt varios conflictus, dubias<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Victorias</l>
+               <l>De foederatis <hi>Gallis, Turcis<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> reportatas,</l>
+               <l>Auguſtâ tandem <hi>liberatâ</hi> Civitate <hi>Viennenſium,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1683"/>
+               </l>
+               <l>Copiis<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> partim ſuis etiam <hi>Munitâ,</hi>
+               </l>
+               <l>Tremefacta per Arva <hi>Ottomanica</hi> victrices duxit Aquilas,</l>
+               <l>
+                  <hi>Strigoniis</hi> cum duplo hoſtium numero congreſſus</l>
+               <l>Qui, vel optimae erant obſidientium Reliquiae,</l>
+               <l>Neceſſitate loci, fortiſſimi,</l>
+               <l>Inglorioſae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Fugae ad Furorem uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Vindicarent Infamiam,</l>
+               <l>
+                  <hi>Polonosque</hi> inſuetos Terga dare repellebant,</l>
+               <l>Quibus <hi>ſola ſalus</hi> erat, <hi>nullam ſperare,</hi>
+               </l>
+               <l>Deſperatum Agmen fregit,</l>
+               <l>Arcem Inſuperabilem cepit,</l>
+               <l>
+                  <pb n="3" facs="tcp:132561:3"/>
+                  <!-- PDF PAGE 66 -->
+Subjugatis<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> circumjacentibus Oppidulis Regionibus<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Ad obſidionem <hi>Budenſem</hi> Vindex tendit,</l>
+               <l>(Capitale ſcil. praeſidium, hactenus Inexpugnabile)</l>
+               <l>Loci difficultatem <hi>primo</hi> Anno monſtravit Orbi,<milestone type="tcpmilestone" unit="unspecified" n="1684"/>
+               </l>
+               <l>
+                  <hi>Secundo</hi> docuit nihil arduum eſſe <hi>CAROLO,</hi>
+               </l>
+               <l>Quod Magnus SOLYMANNUS <hi>Fraude,</hi>
+               </l>
+               <l>Major <hi>CAROL<g ref="char:V">Ʋ</g>S Virtute,</hi>
+               </l>
+               <l>Cepit,<milestone type="tcpmilestone" unit="unspecified" n="1685"/> Evertit, Vaſtavit,</l>
+               <l>Conſpicientibus Hoſtium Copiis,</l>
+               <l>Pallentibus, tremefactis, fruſtraque Liberationi In<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntiſſimis,</l>
+               <l>Gentem <hi>Barbaram</hi> Penitus eruit, <hi>Chriſtianam</hi> introduxit,</l>
+               <l>Decreſcenti <hi>Lunae</hi> Triumphantem Exaltavit <hi>Crucem,</hi>
+               </l>
+               <l>Dominoque vero, reduxit ſubitò <hi>Regnum Hungaricum:</hi>
+               </l>
+               <l>Non Unius Aetatis erat, quod duobus &amp; Circiter Annis,</l>
+               <l>Ultrâ Fidem, pro <hi>Fide Chriſtianâ</hi> fecit Dux invincibilis:</l>
+               <l>Tumultuantibus tandem <hi>Omnis Fidei</hi> Violatoribus,</l>
+               <l>
+                  <hi>Gallis</hi> injuſto Bello vim Imperio <hi>ferentibus</hi>
+               </l>
+               <l>
+                  <g ref="char:V">Ʋ</g>no repreſſo, contrà Alterum Hoſtem Communem vindicabundus involat</l>
+               <l>Ad <hi>Praedam</hi> veniebant haud <hi>Praelium,</hi> 
+                  <g ref="char:V">Ʋ</g>ltrices <hi>Aquilae,</hi>
+               </l>
+               <l>MOGUNTIAM obſeſſit, fortiter Invaſit, feliciter Occupavit,<milestone type="tcpmilestone" unit="unspecified" n="1689"/>
+               </l>
+               <l>Deditione <hi>Gallorum</hi> ingloriosâ</l>
+               <l>
+                  <hi>(Niſi in Famam vertatur pandere Fores,</hi>
+               </l>
+               <l>
+                  <hi>Cum Alterum habuerunt ad portas Hannibalem:)</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sic pro <hi>DEO,</hi> pro <hi>Caeſare</hi> pugnans</l>
+               <l>(Quaſi <hi>Bello Pacem quaeſiverat</hi>)</l>
+               <l>Armorum Intervallo, Hyemis Iniquitate,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>lteriora meditans, &amp; intentans,</l>
+               <l>Morbo Corripitur iniquiſſimo,</l>
+               <l>Nec vitae profuit Virtus,</l>
+               <l>Qui <hi>mille</hi> dedit, <hi>Uni</hi> tandem ſuccumbit <hi>Morti,</hi>
+               </l>
+               <l>In hoc ſolum ingratus <hi>Imperio</hi>
+               </l>
+               <l>Deſeruit <hi>Caeſarem,</hi> Defecit ad <hi>DE<g ref="char:V">Ʋ</g>M,</hi>
+               </l>
+               <l>18. Aprilis, Anno Dom. 1690.</l>
+               <l>
+                  <pb n="4" facs="tcp:132561:4"/>
+                  <!-- PDF PAGE 67 -->
+Sic cecidit Dux Invictiſſimus aeque Pius ac Magnanimus,</l>
+               <l>Hic quieſcit, ſpe, bearae Reſurrectionis, immo ſecurus,</l>
+               <l>In hoc ſigno Conſolatus quo vicit, <hi>Antichriſtum</hi> &amp; <hi>Chriſtianiſſimum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Dulcem Soporem agite,</l>
+               <l>Suavem odorem ſpirate,</l>
+               <l>Beati, Dulciſſimi Cineres,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>rnam cuſtodite, <g ref="char:V">Ʋ</g>mbram inſectamini,</l>
+               <l>Vos O Virtutes, quas coluit,</l>
+               <l>
+                  <hi>VIGILANTIA FORTIT<g ref="char:V">Ʋ</g>DO,</hi>
+               </l>
+               <l>Mortuumque conſervent, cui vivo inſervierunt.</l>
+               <l>
+                  <hi>Victrices Cineres!</hi>
+               </l>
+               <l>Non altero rogo violandi,</l>
+               <l>Nec vel ab <hi>ipſo</hi> Francorum Rege <hi>Incendiario,</hi>
+               </l>
+               <l>Quo <hi>vivo,</hi> ne <hi>Mortui</hi> quidem <hi>requieſcant in Pace.</hi>
+               </l>
+               <l>Vos<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ô Cara Pignora, Dulcesque Reliquiae!</l>
+               <l>Quas Moribundus <hi>Caeſari</hi> commiſit <hi>CAROL<g ref="char:V">Ʋ</g>S,</hi>
+               </l>
+               <l>Abſtinete, Temperate, Luctu, &amp; Lachrymis,</l>
+               <l>Sine veſtris, Natura lugebit,</l>
+               <l>
+                  <hi>Flebile Marmor, humidumque Coelum,</hi>
+               </l>
+               <l>Supplete Vices, rigate Cineres,</l>
+               <l>Carumque depoſitum quod tegitis, <hi>Fovete.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="lament">
+            <pb n="1" facs="tcp:132561:4"/>
+            <!-- PDF PAGE 67 -->
+            <head>Frederici Ducis SCHOMBERGI M. S.</head>
+            <lg>
+               <l>HOSPES, VIATOR, ADVENA,</l>
+               <l>Curioſus, &amp; ſollicitabundus,</l>
+               <l>Siſte gradum &amp; attende</l>
+               <l>Si Cauſam quaeras</l>
+               <l>Cur <hi>Victrix</hi> vix exultat <hi>Britannia?</hi>
+               </l>
+               <l>
+                  <hi>Devictis Hibernis,</hi>
+               </l>
+               <l>Multum <hi>paucis</hi> dicam,</l>
+               <l>
+                  <hi>Uno Duce</hi> integrum perdidit Exercitum,</l>
+               <l>
+                  <hi>Unius Clade,</hi> Dubiam habuit Victoriam</l>
+               <l>
+                  <hi>Diviſum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Triumphum;</hi>
+               </l>
+               <l>Sic Damno Publico</l>
+               <l>MAGNUS ille cecidit SCHOMBERGVS;</l>
+               <l>
+                  <hi>Salutis</hi> Ann. 1690</l>
+               <l>Pro <hi>Salute</hi> Populi, <hi>ſuam</hi> &amp; <hi>Vitam</hi> perdidit;</l>
+               <l>Miles <hi>Octogenarius,</hi> at non <hi>Emeritus,</hi>
+               </l>
+               <l>Poſt <hi>Octoginta</hi> Annos <hi>Natus</hi>
+               </l>
+               <l>Totidem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Victorias <hi>Denatus</hi>
+               </l>
+               <l>Ut nec <hi>Vitae,</hi> nec <hi>Famae</hi> Finem poneret,</l>
+               <l>Vixit ut <hi>Immortalis,</hi> ut <hi>Invincibilis</hi> occubuit.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Venenoſa</hi> ſatis jamjam <hi>Hibernia</hi>
+               </l>
+               <l>Nec amplius ut olim <hi>ſine Serpentibus</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:132561:5"/>
+                  <!-- PDF PAGE 68 -->
+                  <hi>Hoc Mortis Aculeo</hi>
+               </l>
+               <l>(Quaſi <hi>Serpens primaevus</hi>)</l>
+               <l>Humanum Vulneraſti Genus.</l>
+            </lg>
+            <lg>
+               <l>Sed ſuprà Fatum Animoſus Heros!</l>
+               <l>GUSTAVUS alter, Moribundus ſpirat Victoriam</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>enientia</hi> ſpectat <hi>Trophaea,</hi> futuros<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Triumphos,</l>
+               <l>Sic <hi>Luridas</hi> inter <hi>Cupreſſos</hi>
+               </l>
+               <l>Palma Laurus<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Tempora cingunt,</l>
+               <l>
+                  <hi>Cecidit,</hi> monſtravit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Caſu tamen decoro</l>
+               <l>
+                  <hi>Ducem</hi> debere cum Imperatore, <hi>ſtantem Mori,</hi>
+               </l>
+               <l>Diù <hi>ſtetit</hi> horrendus, nec Hoſti ſolum,</l>
+               <l>Vel Fato ſuo formidabilis, nec unico ictu feriendus,</l>
+               <l>Per haſtas, per enſes, globos<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Tormentarios,</l>
+               <l>Quod ſuprà mortale videbatur</l>
+               <l>Letho ſimplici committere timuit inexorabile Fatum;</l>
+               <l>Quem <hi>Terra</hi> non cohibuit</l>
+               <l>In illum etiam armavit Elementum <hi>undoſum</hi>
+               </l>
+               <l>Numero, &amp; <hi>Flumine</hi> obrutus, in <hi>Campo cecidit Aquarum</hi>
+               </l>
+               <l>Oculos<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> claudit <hi>immerſos,</hi> verè &amp; in <hi>Morte natantes,</hi>
+               </l>
+               <l>Ingens (dum ſibi ſuſurrat expirans) Anima,</l>
+               <l>Abi—MAGNO<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> NASSOVIO, integram cede vincendi Gloriam,</l>
+               <l>Dixit—ALEXANDRI BRITANNICI CARUS HEPHAESTION,</l>
+               <l>Subito<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Victor exultat Princeps Auguſtiſſimus,</l>
+               <l>Fato<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vere CAESAREO, VENIT, VIDIT, VICIT;</l>
+               <l>Sed dum Mortuum ſpectat Amicum</l>
+               <l>Vultus<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> inter Vulnera Venerabiles,</l>
+               <l>Duro Certamine Diviſum tenuit Pectus,</l>
+               <l>Ut PIRRHUS ALTER <hi>Nobiliſſimus</hi>
+               </l>
+               <l>Damnoſam increpat Victoriam, Faedatos<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Triumphos.</l>
+            </lg>
+            <lg>
+               <l>Vide Lector, &amp; venerare</l>
+               <l>Novum hujus Seculi TRIUMVIRATUM, ROMANO Majorem,</l>
+               <l>LOTHARINGIUM, SCHOMBERGIUM, &amp; ORANGIUM,</l>
+               <l>Duo <hi>Fulmina</hi> Belli nunc CAELIS Coruſcant</l>
+               <l>Ut Tertius Heros, TERRAM ſolus ILLUSTRARET.</l>
+               <l>
+                  <pb n="3" facs="tcp:132561:5"/>
+                  <!-- PDF PAGE 68 -->
+Sic Vicit, &amp; in Morte Triumphat,</l>
+               <l>SCHOMBERGUS;</l>
+               <l>Indomitus olim, &amp; Ferus Hibernus,</l>
+               <l>Docilis, jam diſcit ferre Jugum,</l>
+               <l>Popellus, ter, quater<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> devictus,</l>
+               <l>Gentem <hi>Sylvaticam,</hi> Feras<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Populabundas</hi>
+               </l>
+               <l>Moriendo docuit <hi>Manſueſcere;</hi>
+               </l>
+               <l>Sub Jugo noſtro mitti ſic carior Libertas,</l>
+               <l>Et <hi>Hibernis</hi> ſic <hi>vinci,</hi> veriùs eſt <hi>ſapere.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Heros Auguſtiſſime!</hi>
+               </l>
+               <l>Quae Regio in Terris Tui non Plena?</l>
+               <l>Non Regibus inſervire debet Doctus Firmare Reges,</l>
+               <l>Regiminis &amp; Fulcrum Hoc rejecit Gallus</l>
+               <l>Solum ut ſecuriùs caderet vacillans Regnum,</l>
+               <l>Serò edoctus hoc unico Exemplo</l>
+               <l>
+                  <hi>Quantum Malorum poterat ſuadere Religio.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Annorum, ut Famae ſatur!</l>
+               <l>Hic <hi>Occidentali</hi> ſepulchro</l>
+               <l>Hic <hi>Herculeas,</hi> hic (Dux Inclyte) fige <hi>Columnas,</hi>
+               </l>
+               <l>Satis eſt pro uno ſeculo quod feciſti,</l>
+               <l>Intacti maneant Cineres</l>
+               <l>Non ingens <hi>Bourbonius,</hi> nec Alter ullus <hi>Temerarius</hi>
+               </l>
+               <l>Hic audet <hi>Sacrilegâ</hi> Manu <hi>Venerabile</hi> turbare Buſtum,</l>
+               <l>Dulcem ſoporem age</l>
+               <l>Dum Manibus tuis Litatur Inimicus ſanguis,</l>
+               <l>Triſtes<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Britanni</l>
+               <l>Cineres nobiliſſimos</l>
+               <l>
+                  <hi>Altero</hi> Cingunt <hi>Mauſolaeo.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132561:6"/>
+            <!-- PDF PAGE 69 -->
+            <pb facs="tcp:132561:6"/>
+            <!-- PDF PAGE 69 -->
+         </div>
+      </body>
+   </text>
+</TEI>
